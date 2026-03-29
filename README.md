@@ -1,7 +1,9 @@
 # Note Taker CLI
 
-> ⚗️ **ໂປຣເຈັກນີ້ສ້າງຂຶ້ນເພື່ອທົດລອງໃຊ້ AI (Claude) ໃນການພັດທະນາ software ແບບ end-to-end**
-> ຕັ້ງແຕ່ການອອກແບບ → ຂຽນ code → ທົດສອບ → deploy ໂດຍບໍ່ຕ້ອງຂຽນ code ດ້ວຍຕົນເອງ
+> ⚗️ **ໂປຣເຈັກນີ້ສ້າງຂຶ້ນໂດຍໃຊ້ລະບົບ TBW System 1**
+> *(Think-Build-Watch System v1 — ປະກອບດ້ວຍ: ສະພາ Six Hats Council + Superpowers Pipeline + Council Review + Claude Office Visualizer + Hooks)*
+>
+> ທົດລອງໃຊ້ AI ພັດທະນາ software ແບບ end-to-end ຕັ້ງແຕ່ອອກແບບ → ຂຽນ code → ທົດສອບ → deploy ໂດຍ human ບໍ່ຕ້ອງຂຽນ code ດ້ວຍຕົນເອງ
 
 ---
 
